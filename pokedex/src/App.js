@@ -95,7 +95,7 @@ function App() {
         {!searchResult && <button className="load-more" onClick={() => getAllPokemons()}>Load More</button>}
 
       </div>
-
+{/* dtjsdhgd */}
     </div>
   )
 }
